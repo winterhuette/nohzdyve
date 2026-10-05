@@ -14,7 +14,7 @@ The current build is source-based and targets the Motorola 68000 / OCS
 platform.  It has been developed with real Amiga hardware in mind rather
 than emulator-only compatibility.
 
-Copyright 2019, Jan C. Kiefer
+Copyright 2026, Jan C. Kiefer
 
 WHAT'S NEW IN v7.8b
 --------------------
