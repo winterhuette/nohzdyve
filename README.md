@@ -5,10 +5,10 @@
 
 ABOUT
 -----
-NOHZDYVE is an Amiga 500 / CDTV port of the ZX Spectrum game featured in
-Black Mirror: Bandersnatch.  The Amiga version keeps the original gameplay
-concept while adapting the presentation, controls and audio for classic
-Amiga hardware.
+NOHZDYVE is an Amiga 500 / CDTV port of the ZX Spectrum game written 
+by Matt Wescott and released as an Easter Egg for Bandersnatch episode of
+Black Mirror.  The Amiga version keeps the original gameplay concept while 
+adapting the presentation, controls and audio for classic Amiga hardware.
 
 The current build is source-based and targets the Motorola 68000 / OCS
 platform.  It has been developed with real Amiga hardware in mind rather
