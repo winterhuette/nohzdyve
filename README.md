@@ -150,3 +150,16 @@ This port is a fan/technical preservation project and is not an official
 Netflix or Black Mirror release.
 
 ===============================================================================
+
+Screenshots
+
+<img width="605" height="495" alt="start" src="https://github.com/user-attachments/assets/a1f04c69-bad7-43ac-95d6-0f3067f131b3" />
+
+<img width="606" height="489" alt="options" src="https://github.com/user-attachments/assets/219cf299-bb6d-49e6-8601-e48bb52723cd" />
+
+<img width="610" height="493" alt="InGame" src="https://github.com/user-attachments/assets/559553f3-d5a5-46db-b026-1fe162d56d95" />
+
+<img width="606" height="490" alt="hiscore" src="https://github.com/user-attachments/assets/1056d901-22e4-43a6-9e11-1cd32977ceb9" />
+
+
+
